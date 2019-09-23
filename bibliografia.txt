@@ -1,0 +1,43 @@
+Alarcón R. (2000). Diseño Orientado a Objetos con UML, España, Grupo EIDOS. 117 p. Kendall y Kendall (2005).  Análisis y diseño de sistemas, 6a. ed., México, Pearson Educación. 752 p. 
+Larman C. (2003). UML y patrones: una introducción al análisis y diseño orientado a objetos y al proceso unificado, 2a. Ed., Madrid, Pearson.
+Robbins, Stephen P. (2001), Administración, 6a. ed., México, Prentice Hall. 
+Roger S. Pressman (2005). Ingeniería de Software, un enfoque práctico, 6a. ed., México. McGraw-Hill.
+
+
+Rumbaugh, E. y Jacobson, I. y Booch, G. (2007). El Lenguaje Unificado de Modelado, Manual de referencia, 2a. ed., Madrid, Pearson Educación. 
+Sommerville, Ian (2005). Ingeniería del software, 7a. ed., Madrid, Pearson - Adidson Wesley, 687 p. 
+Stralser, Steven (2004). MBA, In a Day, MBA, New Jersey, John Wiley & Sons, 323 p.
+Kendall y Kendall (2005).  Análisis y diseño de sistemas, 6a. ed., México, Pearson Educación. 752 p. 
+Gallivan, Michael J. (1996). Strategies for implementing new software processes: an evaluation of a contingency framework, USA N.Y., New York.
+García, J. Baltazar (2008). Metodología y Tecnología de la Programación, Prentice Hall, 256 p. 
+García Valle, J. Luis (1994). Matemáticas especiales para computación, Madrid España, McGraw-Hill, 471 p. 
+Joyanes Aguilar, Luis (2008). Fundamentos de la Programación, McGraw Hill. 
+Pratt, T.W.; Zelkowitz, M.V. (1998). Lenguajes de programación: diseño e implementación, Prentice-Hall. 
+Pressman S., Roger. (2002). Ingeniería de Software: Un enfoque práctico. 5a. ed., McGrawHill. 
+Raúl Coss Bu (2003). Simulación, un enfoque práctico, 7a. ed., México, LIMUSA - Noriega editores, 161p. 
+Richard Johnson Baugh (1998), Matemáticas discretas, México, Grupo Editorial Iberoamericana. 
+Silberschatz, Abraham (2006). Fundamentos de bases de datos, 5a. ed., McGraw-Hill. 
+Sommerville, Ian (2005). Ingeniería del software, 7a. ed., Madrid, Pearson - Adidson Wesley, 687 p. 
+Stair, Reynolds (2002). Fundamentos de los sistemas de información, Thompson. 
+Stallman, Richard (2004). Software libre para una sociedad libre, Ed. Madrid España, Traficantes de Sueños, 232 p
+
+
+COBOT (2010). Disponible: http://www.isaca.org/Template.cfm?Section=COBIT6&Template =/TaggedPage/TaggedPageDisplay.cfm&TPLID=55&ContentID=7981 [Consulta: Enero de 2010] 
+Sommerville, Ian (2005). Ingeniería del software, 7a. ed., Madrid, Pearson - Adidson Wesley, 687 p. 
+IBM – Rational Unified Process (2010). Disponible http://www01.ibm.com/software/awdtools/rup/  [Consulta: Enero de 2010] 
+Instituto de Gestión de Proyectos (2000). Guía Fundamental para la Gestión de Proyectos (PMBOK GUIDE), Pennsylvania USA, Newton Square.
+Kendall & Kendall. (2005), Análisis y Diseño de Sistemas. 6a. ed., México, Pearson Educación. Pressman. 
+Roger S. (2005). Ingeniería del software, un enfoque práctico. 6a. ed., México, McGraw Hill. 
+Raymond Mcleod, Jr. (2000). Sistemas de Información Gerencial. 7a. ed., México, Prentice Hall. What is ITIL? (2010). Disponible: http://www.itil-officialsite.com/AboutITIL/WhatisITIL.asp  [Consulta: Enero de 2010] 
+
+
+Andrew S. Tannenbaum (2001). Redes de computadoras, 3a. ed., México, Prentice Hall. 
+Carretero Pérez Jesús (2001). Sistemas operativos, una visión aplicada, España, McGraw-Hill. H. 
+Kim Lew, Spank McCoy, Tim Stevenson Kathleen Wallace y Kevin Downs (2000). Interconectividad: Manual para Resolución de Problemas, México, Pearson Educación. 
+Kroenke David (2003). Procesamiento de Bases de Datos. Fundamentos, diseño e implementación, 8a. ed., Pearson. Libros Cisco, CCNA I al III 
+Raya José Luis, Raya Laura, Martínez Miguel A. (2008). Redes locales, instalación y configuraciones básicas, 1a. ed., México, Alfaomega. 
+Silberschatz, A., Galvin, P.B., Gagne, G. (2008). Operating System Concepts. Wiley and Sons.  
+Silberschatz, Korth, Sudarshan (2006). Fundamentos de bases de datos. 5a. ed., México, McGraw-Hill. 
+Stallings William (2004). Comunicaciones y redes de computadores, Pearson educación.  
+Tanenbaum, Andrew S. (2001). Redes de computadoras, 4a. ed., México, Prentice-Hall. 
+Tanenbaum, Andrew S. (2009). Sistemas operativos modernos, 3a. ed., México, Prentice-Hall.
