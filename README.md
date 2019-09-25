@@ -22,7 +22,8 @@
 #### Documentación de los requerimientos de un sistema de información
 ### Desarrollo de sistemas
 #### Herramientas de desarrollo del sistema 
-#### Codificación del sistema #### Validación de la solución tecnológica 
+#### Codificación del sistema 
+#### Validación de la solución tecnológica 
 #### Ajuste del producto de software desarrollado
 
 ### Implantación de sistemas 
