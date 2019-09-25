@@ -3,16 +3,36 @@
 
 ## Análisis de sistemas de información
 ### Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información
+#### Análisis preliminar de los sistemas de operación de la organización
 
-#### Análisis preliminar de los sistemas de operación de la organización 
 #### Diagnóstico de la situación de los sistemas de operación de la organización
+
 #### Identificación de los problemas a resolver con sistemas de información 
+
 #### Análisis de factibilidad de productos comerciales contra desarrollos a la medida como estrategias de solución del problema 
+
 #### Propuestas de sistemas de información computacional que solucionen la problemática detectada en la organización 
 
 ### Modelado de los requerimientos de un sistema de información 
 #### Análisis de los requerimientos de un sistema de información 
+
 #### Validación de los requerimientos de un sistema de información 
+La validacion de requisitos ocurren con el objetivo de comprobar que estos son correctos, la falta de esta fase pudiera significar una mala especificación.
+Los parametros a verficiar son: 
+* Validez: Obtener los requisitos de todos los usuarios.
+* Consistencia: No deben de haber contradiccciones de requisitos.
+* Completitud: Deben estar todos los requisitos, o en el caso de un desarrollo iterativo tener todos los requisitos de la iteración en curso.
+* Realismo: Se pueden implementar y son realizables con tecnologia moderna.
+* Verificabilidad: Tiene que ser comprobable.
+
+##### Prototipado de interfaz de usuario
+Permite al usuario final explorar la propuesta de los ingenieros de requisitos.
+* Desechables: Pueden ser prototipos en papel o en software, su unico punto es demostrar los requisitos.
+* Evolutivos: Son primero utilizados para la validación de requisitos, con el tiempo se mejora su calidad y se convierten en el producto final.
+
+##### Recorrido de casos de uso
+
+
 #### Documentación de los requerimientos de un sistema de información
 
 ## Desarrollo e implantación de aplicaciones computacionales
@@ -47,7 +67,7 @@
 #### Verificación del cumplimiento de las métricas de calidad en proyectos de tecnologías de información 
 
 ## Implementación de redes, bases de datos, sistemas operativos y lenguaje de desarrollo
-### Gestión de redes de datos 
+### Gestión de redes de datos
 #### Diseño de modelos de redes en base a un requerimiento de una organización 
 #### Implementación redes de datos 
 #### Administración y operación de una red de datos 
