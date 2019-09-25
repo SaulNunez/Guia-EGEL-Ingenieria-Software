@@ -41,3 +41,4 @@ Silberschatz, Korth, Sudarshan (2006). Fundamentos de bases de datos. 5a. ed., M
 Stallings William (2004). Comunicaciones y redes de computadores, Pearson educación.  
 Tanenbaum, Andrew S. (2001). Redes de computadoras, 4a. ed., México, Prentice-Hall. 
 Tanenbaum, Andrew S. (2009). Sistemas operativos modernos, 3a. ed., México, Prentice-Hall.
+https://support.microsoft.com/es-mx/help/283878/description-of-the-database-normalization-basics

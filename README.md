@@ -54,7 +54,21 @@
 
 ### Gestión de bases de datos
 #### Diseño de bases de datos relacionales 
-#### Implementación de bases de datos 
+##### Formas normales
+La normalización nos permite organizar los datos de una base de datos, incluye la creación de tablas y el establecimiento de relaciones según reglas con el fin de que la base de datos sea mas flexible al eliminar redundancia y dependencias incoherentes, las dependencias incoherentes evitan que el acceder a los datos sea intuitivo y dificulta el acceso por que la ruta puede no estar o estar interrumpida.
+###### Primera forma normal
+* Eliminar grupos repetidos de información de las tablas individuales. Eliminar cosas como `proveedor_1` y `proveedor_2`, mudarlo a una tabla de proveedores; eliminar campos como información del usuario si lo principal son las ordenes de compra.
+* Crear tablas independientes para cada conjunto de datos relacionados.
+* Identificar cada tabla con un llave primaria.
+
+##### Segunda forma normal
+* Crear tablas independientes para conjuntos de valores que se apliquen a varios registros. Por ejemplo, si tienes dirección en la tabla de clientes y de facturas independientemente en ambas tablas, considera tenerlo solo en una tabla.
+* Relacionar estas tablas con una clave externa.
+
+##### Tercera forma normal
+* Eliminar campos que no dependan de la clave.
+
+#### Implementación de bases de datos
 #### Administración, instalación, configuración y mantenimiento de una base de datos 
 
 ### Gestión de sistemas operativos o lenguajes de desarrollo
