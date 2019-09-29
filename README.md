@@ -57,9 +57,37 @@ Permite al usuario final explorar la propuesta de los ingenieros de requisitos.
 #### Ajuste del producto de software desarrollado
 
 ### Implantación de sistemas 
-#### Técnicas de implantación de sistemas 
-#### Elementos para poner en operación un producto de software 
-#### Pruebas de operación y validez de un producto de software 
+#### Técnicas de implantación de sistemas
+Existen los siguientes métodos de implantación según Maria Ines Parnisari:
+* Big Bang: Todo el nuevo sistema pasa a producción.
+* Escalonado: El nuevo sistema se pone en producción por etapas. Necesita interfaces temporales entre el sistema viejo y el nuevo.
+* Directo: El nuevo sistema no coexiste con el viejo.
+* Paralelo: El nuevo sistema coexiste con el viejo durante un tiempo. Es costoso.
+#### Elementos para poner en operación un producto de software
+Factores clave para una implantación exitosa
+1. Apoyo de la gerencia
+2. Apoyo de *stakeholders*
+3. Disponiblidad de dinero y recursos humanos
+
+Fases de implantación:
+1. Revisión de hardware y software
+2. Método de implantación
+3. Puesta operativa:
+    * Migración de datos
+    * Capacitación
+    * Interfaces definitivas
+    * Manual de normas y procedimientos
+#### Pruebas de operación y validez de un producto de software
+Existen los siguientes planes de pruebas según Maria Ines Parnisari:
+* De hardware: Probar si el hardware soporta el nuevo sistema
+* Unitarias: Se prueban los distintos modulos por separado
+* Funcionales: Probar las diversas funciones del sistema con casos felices y erróneos y ver como se comporta el sistema
+* De estrés: Verifica cómo es el tiempo de respuesta ante muchas entradas o muchos usuarios
+* De volumen: Verifica cómo es el tiempo de respuesta ante muchísimas entradas o muchísimos usuarios
+* Integrales: Verificar todo el sistema ya en funcionamiento
+De perfiles: Probar que un usuario X no tenga autorizado realizar acciones que no tiene autorizadas
+* De interfaces: Probar las interfaces entre los módulos o entre el sistema nuevo y el viejo
+* Plan de contigencia
 
 ### Aplicación de modelos matemáticos
 #### Aplicación de las ciencias básicas a la ingeniería de software 
