@@ -1,4 +1,3 @@
-
 # EGEL INGENIERIA DE SOFTWARE
 
 ## Análisis de sistemas de información
@@ -15,6 +14,17 @@
 
 ### Modelado de los requerimientos de un sistema de información 
 #### Análisis de los requerimientos de un sistema de información 
+##### VORD
+
+
+##### Casos de uso
+
+
+##### Etnografía
+Un analista se sumerge por sí solo en el entorno laboral donde se usará el sistema, observa y hace notas de las tareas que realizan los involucrados. Su valor es descubrir requerimientos implicitos.
+Según Sommerville esta es especialmente efectiva para descubir los requisitos:
+* Requisitos que llacen de la forma en la que la gente trabaja realmente.
+* Los requerimientos por la cooperación y conocimiento de las actividades de la gente.
 
 #### Validación de los requerimientos de un sistema de información 
 La validacion de requisitos ocurren con el objetivo de comprobar que estos son correctos, la falta de esta fase pudiera significar una mala especificación.
