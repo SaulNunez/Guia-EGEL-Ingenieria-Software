@@ -63,6 +63,7 @@ Existen los siguientes métodos de implantación según Maria Ines Parnisari:
 * Escalonado: El nuevo sistema se pone en producción por etapas. Necesita interfaces temporales entre el sistema viejo y el nuevo.
 * Directo: El nuevo sistema no coexiste con el viejo.
 * Paralelo: El nuevo sistema coexiste con el viejo durante un tiempo. Es costoso.
+
 #### Elementos para poner en operación un producto de software
 Factores clave para una implantación exitosa
 1. Apoyo de la gerencia
@@ -77,6 +78,7 @@ Fases de implantación:
     * Capacitación
     * Interfaces definitivas
     * Manual de normas y procedimientos
+
 #### Pruebas de operación y validez de un producto de software
 Existen los siguientes planes de pruebas según Maria Ines Parnisari:
 * De hardware: Probar si el hardware soporta el nuevo sistema
@@ -114,6 +116,7 @@ De perfiles: Probar que un usuario X no tenga autorizado realizar acciones que n
 #### Diseño de bases de datos relacionales 
 ##### Formas normales
 La normalización nos permite organizar los datos de una base de datos, incluye la creación de tablas y el establecimiento de relaciones según reglas con el fin de que la base de datos sea mas flexible al eliminar redundancia y dependencias incoherentes, las dependencias incoherentes evitan que el acceder a los datos sea intuitivo y dificulta el acceso por que la ruta puede no estar o estar interrumpida.
+
 ###### Primera forma normal
 * Eliminar grupos repetidos de información de las tablas individuales. Eliminar cosas como `proveedor_1` y `proveedor_2`, mudarlo a una tabla de proveedores; eliminar campos como información del usuario si lo principal son las ordenes de compra.
 * Crear tablas independientes para cada conjunto de datos relacionados.
