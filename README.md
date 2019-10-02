@@ -2,6 +2,30 @@
 
 ## Análisis de sistemas de información
 ### Diagnóstico del problema y valoración de la factibilidad para el desarrollo de sistemas de información
+* Control de la definición de alcance: En la etapa inicial del proyecto, la factibilidad es la urgencia del problema y una primera estimación de costos
+* Control de análisis del problema: Se analizan los problemas del sistema existente y se realiza una segunda estimación de costo
+* Control de análisis de decisiones: Los problemas y requerimientos se conocen, se definen soluciones alternas en cuanto métodos de entrada/salida, almacenamiento de datos, necesidades de hardware y software
+
+Opciones para el análista:
+1. No hacer nada
+2. Emprender la reingeniería de los procesos de negocio
+3. Mejorar el sistema existente
+4. Comprar un sistema comercial
+5. Diseñar y construir un nuevo sistema
+
+Pruebas de factibilidad:
+* Factibilidad operativa, que tanto la solución cumple los requisitos
+* Factibilidad cultural, el grado de aceptación de la solución en un ambiente organizacional
+* Factibilidad técnica, disponibilidad de recursos técnicos para la realización de la solución, ej. programadores insuficientes o es necesario invertir en equipo caro
+* Factibilidad del calendario, si el tiempo a entregar el sistema es razonable
+* Factibilidad ecónomica, efectividad en costos del proyecto
+* Factibilidad legal
+
+Análisis costo-beneficio:
+* Valor del dinero en el tiempo
+* Análisis de recuperación de la inversión
+* Análisis de rendimiento sobre la inversión
+
 #### Análisis preliminar de los sistemas de operación de la organización
 
 #### Diagnóstico de la situación de los sistemas de operación de la organización
