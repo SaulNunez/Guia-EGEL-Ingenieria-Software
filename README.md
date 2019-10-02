@@ -12,19 +12,39 @@
 
 #### Propuestas de sistemas de información computacional que solucionen la problemática detectada en la organización 
 
-### Modelado de los requerimientos de un sistema de información 
+### Modelado de los requerimientos de un sistema de información
+Tipos de modelado:
+* Modelos basados en el escenario de los requerimientos desde el punto de "actores"
+    * Casos de uso
+        ![Casos de uso](https://stadium.unad.edu.co/ovas/10596_9839/Figura_43_Diseno_Completo_del_Diagrama_de_Casos_de_Uso.jpg)
+    * Diagramas de actividades
+        ![Diagramas de actividades](https://image.slidesharecdn.com/diagramadeactividadesuml-110301132720-phpapp01/95/diagrama-de-actividades-uml-8-728.jpg?cb=1298986104)
+    * Diagramas tipo carril de natación (Diagrama de secuencia)
+        ![Diagrama de secuencia](https://sites.google.com/site/modeladouml/_/rsrc/1364833400166/diagrama-de-secuencia/DiagramaDeSecuencia.JPG)
+* Modelos de datos
+    * Modelar los objetos de datos, con sus atributos
+    * Incluye información como sus relaciones
+        * Diagrama entidad relación
+            ![Diagrama entidad relación](https://www.lawebdelprogramador.com/usr/327000/327381/5a7b91006e58f-ER-DIAGRAMA.jpg)
+* Modelos orientados a objetos
+    ![Diagrama de clases](http://2.bp.blogspot.com/-QB5fHj0N6TQ/VhtLzottNgI/AAAAAAAAAMc/jb46t393CFc/s1600/DCPedidos.jpg)   
+    Modelan:
+    * Relaciones
+    * Modelan los atributos de los distintos objetos de datos
+    * Representa los *métodos* para manipular los objetos de datos
+* Modelos orientados al flujo, representa como se transforman los datos a medida que avanzan en el sistema
+    * Diagrama de flujo
+        ![Diagrama de flujo](https://renieryblog.files.wordpress.com/2016/03/diagrama-de-flujo-397795.png)
+    * Especificación de control con un Diagrama de estado
+        ![Diagrama de estado](http://1.bp.blogspot.com/-aljC2mKDMbE/Tsr7ZR4fKzI/AAAAAAAAAGQ/dNDIWq5HW5A/s1600/ESTADO1.gif)
+* Modelos de comportamiento, muestra como se comporta el software en consecuencia a eventos externos
+    * Diagrama de estado
+        ![Diagrama de estado](http://1.bp.blogspot.com/-aljC2mKDMbE/Tsr7ZR4fKzI/AAAAAAAAAGQ/dNDIWq5HW5A/s1600/ESTADO1.gif)
+    * Diagrama de secuencia
+        ![Diagrama de secuencia](https://sites.google.com/site/modeladouml/_/rsrc/1364833400166/diagrama-de-secuencia/DiagramaDeSecuencia.JPG)
+
 #### Análisis de los requerimientos de un sistema de información 
-##### VORD
 
-
-##### Casos de uso
-
-
-##### Etnografía
-Un analista se sumerge por sí solo en el entorno laboral donde se usará el sistema, observa y hace notas de las tareas que realizan los involucrados. Su valor es descubrir requerimientos implicitos.
-Según Sommerville esta es especialmente efectiva para descubir los requisitos:
-* Requisitos que llacen de la forma en la que la gente trabaja realmente.
-* Los requerimientos por la cooperación y conocimiento de las actividades de la gente.
 
 #### Validación de los requerimientos de un sistema de información 
 La validacion de requisitos ocurren con el objetivo de comprobar que estos son correctos, la falta de esta fase pudiera significar una mala especificación.
