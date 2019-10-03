@@ -22,6 +22,8 @@ Sommerville, Ian (2005). Ingeniería del software, 7a. ed., Madrid, Pearson - Ad
 Stair, Reynolds (2002). Fundamentos de los sistemas de información, Thompson. 
 Stallman, Richard (2004). Software libre para una sociedad libre, Ed. Madrid España, Traficantes de Sueños, 232 p
 http://web.fi.uba.ar/~mparnisari/files/7517.pdf
+www.juntadeandalucia.es/servicios/madeja/contenido/libro-pautas/182
+
 
 
 COBOT (2010). Disponible: http://www.isaca.org/Template.cfm?Section=COBIT6&Template =/TaggedPage/TaggedPageDisplay.cfm&TPLID=55&ContentID=7981 [Consulta: Enero de 2010] 

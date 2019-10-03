@@ -94,6 +94,15 @@ En ingles *Walkthrough*, es una forma de revisión por pares donde el programado
 #### Análisis de los requerimientos de un sistema de información 
 #### Validación de los requerimientos de un sistema de información 
 #### Documentación de los requerimientos de un sistema de información
+Su papel es continuar con la definición del sistema a desarrollar.
+
+Características de los requisitos:
+* Deben estar bien redactados. Usan terminos del dominio del problema que los interesados esten familiarizados y deben aparecer en un glosario de terminos.
+* Los requisitos tienen estar redactados de forma que ayude a que solo puedan ser entendidos en una forma.
+* Deben ser gramaticamente y fotograficamente correctos.
+* Se redactan de forma que se puedan definir pruebas y que tengan costos y una duración de tiempo razonables.
+* Establecen requisitos que puedan implementarse con tecnología existente y con un costo dentro del presupuesto.
+
 ### Desarrollo de sistemas
 #### Herramientas de desarrollo del sistema 
 #### Codificación del sistema 
