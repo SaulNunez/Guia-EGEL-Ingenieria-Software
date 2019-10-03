@@ -85,7 +85,7 @@ Permite al usuario final explorar la propuesta de los ingenieros de requisitos.
 * Evolutivos: Son primero utilizados para la validación de requisitos, con el tiempo se mejora su calidad y se convierten en el producto final.
 
 ##### Recorrido de casos de uso
-
+En ingles *Walkthrough*, es una forma de revisión por pares donde el programador o programadores se reunen con los stakeholders y los participantes preguntan y hacen comentarios sobre posibles errores, violaciones de estádares de desarrollo y otros problemas. Puede ser informal o seguir los estandares de la norma IEEE 1028. 
 
 #### Documentación de los requerimientos de un sistema de información
 

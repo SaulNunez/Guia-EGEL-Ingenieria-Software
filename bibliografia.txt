@@ -3,6 +3,7 @@ Larman C. (2003). UML y patrones: una introducción al análisis y diseño orien
 Robbins, Stephen P. (2001), Administración, 6a. ed., México, Prentice Hall. 
 Roger S. Pressman (2005). Ingeniería de Software, un enfoque práctico, 6a. ed., México. McGraw-Hill.
 http://www.sites.upiicsa.ipn.mx/estudiantes/academia_de_informatica/analisis_de_sistemas/docs/PDF/Estudio_Factibilidad.pdf
+https://en.m.wikipedia.org/wiki/Software_walkthrough
 
 Rumbaugh, E. y Jacobson, I. y Booch, G. (2007). El Lenguaje Unificado de Modelado, Manual de referencia, 2a. ed., Madrid, Pearson Educación. 
 Sommerville, Ian (2005). Ingeniería del software, 7a. ed., Madrid, Pearson - Adidson Wesley, 687 p. 
