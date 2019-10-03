@@ -85,9 +85,17 @@ Permite al usuario final explorar la propuesta de los ingenieros de requisitos.
 * Evolutivos: Son primero utilizados para la validación de requisitos, con el tiempo se mejora su calidad y se convierten en el producto final.
 
 ##### Recorrido de casos de uso
-
+En ingles *Walkthrough*, es una forma de revisión por pares donde el programador o programadores se reunen con los stakeholders y los participantes preguntan y hacen comentarios sobre posibles errores, violaciones de estádares de desarrollo y otros problemas. Puede ser informal o seguir los estandares de la norma IEEE 1028. 
 
 #### Documentación de los requerimientos de un sistema de información
+Su papel es continuar con la definición del sistema a desarrollar.
+
+Características de los requisitos:
+* Deben estar bien redactados. Usan terminos del dominio del problema que los interesados esten familiarizados y deben aparecer en un glosario de terminos.
+* Los requisitos tienen estar redactados de forma que ayude a que solo puedan ser entendidos en una forma.
+* Deben ser gramaticamente y fotograficamente correctos.
+* Se redactan de forma que se puedan definir pruebas y que tengan costos y una duración de tiempo razonables.
+* Establecen requisitos que puedan implementarse con tecnología existente y con un costo dentro del presupuesto.
 
 ## Desarrollo e implantación de aplicaciones computacionales
 #### Desarrollo del modelo inicial de la solución del problema de tecnología de información
